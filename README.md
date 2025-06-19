@@ -33,4 +33,4 @@ project/
 ├── main.py                    # Main entry point (data + model + strategy)
 ├── data.py                    # Synthetic generator + Polygon API access
 ├── xgb_tunign.py              # Model training, prediction, cross-validation
-├── classification_trading.py # Trading logic, metrics, backtest, plots
+├── big_trader.py # Trading logic, metrics, backtest, plots
